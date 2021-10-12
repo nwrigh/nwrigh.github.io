@@ -11,4 +11,4 @@ In August I left my role at Skyscanner to take a career break with an ambitious 
 
 There are so many topics, ideas and opinions battling in my head and I have wanted a space to get them down in writing. Tech leadership, individual contributor career information, continious improvement, all things data, distributed systems but to name just a few topics. 
 
-This initial post is pretty much me working out the lowest effort design for the deployment of a static site via github actions and free hosting via Github pages https://gohugo.io/hosting-and-deployment/hosting-on-github/
+This initial post is pretty much me working out the lowest effort design for the deployment of a static site via github actions and free hosting via Github pages https://gohugo.io/hosting-and-deployment/hosting-on-github/ 
