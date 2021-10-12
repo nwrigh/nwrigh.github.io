@@ -1,1 +1,0 @@
-# nwrigh.github.io
